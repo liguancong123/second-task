@@ -1,0 +1,31 @@
+p{
+position:relative;
+left:40px;
+top:50px;
+font-size:30px;
+font-family:华文彩云;
+line-height:2;    
+font-weight:bold;   
+} 
+li{
+position:relative;
+left:40px;
+top:40px;
+font-size:20px;
+font-family:微软雅黑;
+}
+
+
+body{
+padding:0px 10px;
+width:900px;
+margin:0 auto;
+border:100px solid black;
+letter-spacing:1px
+}
+img{
+position:absolute;
+left:870px;
+width:400px;
+height:522px;
+}
